@@ -1,7 +1,7 @@
 # Portfolio web · Matias Nicolas Furtado
 Trabajo Final de Diseño UX-UI 2026 · Licenciatura en Sistemas de Información · UADER, FCyT, Concepción del Uruguay · Docente: Mg. Ernesto Ledesma.
 
-- **Sitio publicado:** [COMPLETAR con la URL de GitHub Pages]
+- **Sitio publicado:** [(https://imaginative-torrone-0374b1.netlify.app/)]
 - **Figma:** [COMPLETAR link con permiso de visualización]
 - **Repositorio:** https://github.com/matiasfurtado/[NOMBRE-DEL-REPO]
 
