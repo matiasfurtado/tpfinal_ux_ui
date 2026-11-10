@@ -36,3 +36,34 @@ Esta referencia permitió comprender la importancia de construir una identidad v
 
 ---
 
+## 3. Benchmark – Portfolio del docente Ernesto Ledesma
+
+**Referencia:** https://ernesto-ledesma-portfolio.vercel.app
+
+**Análisis de arquitectura y propuesta visual:**
+
+Se tomó el portfolio del docente como referencia para estudiar la organización de la información y la estructura general de un portfolio profesional.
+
+El análisis se centró en cómo distribuir las secciones principales, establecer una jerarquía de contenidos y facilitar que el visitante encuentre información sobre habilidades, proyectos, experiencia y contacto.
+
+La evaluación visual específica de colores, tipografías e interacciones queda pendiente de contrastar con una captura del sitio.
+
+**Aspectos positivos de la estructura tomada como referencia:**
+- Organización del contenido en secciones identificables.
+- Separación entre información personal, habilidades y proyectos.
+- Posibilidad de establecer un recorrido de navegación sencillo.
+- Estructura adecuada para presentar un perfil profesional.
+
+**Aspectos que se buscaron mejorar en el portfolio propio:**
+- Destacar los proyectos mediante tarjetas con información resumida.
+- Facilitar el acceso al contacto desde distintas secciones.
+- Priorizar la legibilidad y la adaptación a dispositivos móviles.
+- Utilizar una identidad visual propia en lugar de reproducir el diseño de referencia.
+
+**Aprendizaje aplicado al portfolio propio:**
+
+Esta referencia sirvió como punto de partida para definir la arquitectura de información de mi portfolio. Organicé el sitio en nueve secciones: Header, Hero, Métricas, Skills, Proyectos, Experiencia, Sobre mí, Contacto y Footer. Además, incorporé navegación mediante anclas, un menú adaptable a dispositivos móviles y enlaces para acceder a los proyectos.
+
+---
+
+
