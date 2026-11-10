@@ -66,4 +66,10 @@ Esta referencia sirvió como punto de partida para definir la arquitectura de in
 
 ---
 
+## Conclusión general del Benchmark
+
+El análisis de los tres portfolios seleccionados permitió identificar aspectos importantes del diseño UX/UI: claridad visual, navegación intuitiva, identidad personal, organización de proyectos y facilidad para encontrar información.
+
+A partir de estas referencias, decidí desarrollar un portfolio con una estética propia, utilizando colores azules, fondos claros, tipografía legible, tarjetas de proyectos y un diseño responsive.
+
 
