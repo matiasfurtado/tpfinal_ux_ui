@@ -72,4 +72,4 @@ El análisis de los tres portfolios seleccionados permitió identificar aspectos
 
 A partir de estas referencias, decidí desarrollar un portfolio con una estética propia, utilizando colores azules, fondos claros, tipografía legible, tarjetas de proyectos y un diseño responsive.
 
-
+El objetivo fue crear una experiencia sencilla y accesible que permita a docentes, reclutadores y posibles clientes conocer mi perfil, mis habilidades y mis trabajos de manera rápida y ordenada.
