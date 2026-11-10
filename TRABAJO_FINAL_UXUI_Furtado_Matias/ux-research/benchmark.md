@@ -1,16 +1,11 @@
-# Benchmark de 3 portfolios
-**Leyenda:** ✅ verificado en las fuentes consultadas · ⚠️ suposición / pendiente de revisión visual por vos.
+# Benchmark de tres portfolios — análisis de referencia
 
-## 1. Brittany Chiang — https://brittanychiang.com
-- ✅ Página con enlace “Skip to Content”, nombre, rol (Frontend Engineer), frase de propuesta de valor y sección About; proyectos con lista de tecnologías.
-- ✅ Estructura tipo one-page con proyectos y escritos.
-- ⚠️ Tema oscuro, tipografía y animaciones: confirmar al navegarlo.
-- **Aprendizaje:** propuesta de valor en una línea y tecnologías visibles por proyecto. **No copiar** su paleta oscura (lo prohíbe la consigna).
+**Criterio:** se distinguen observaciones documentadas, características descritas por la consigna y aspectos que requieren revisión visual. No se atribuyen pruebas que no se realizaron.
 
-## 2. Adham Dannaway — URL a confirmar (⚠️ buscar y verificar)
-- ⚠️ Referente de portfolio de diseño UX/UI citado en listados de portfolios. Pendiente: verificar casos de estudio, jerarquía y contacto.
+| Referente | Qué aporta al análisis | Limitación o precaución | Decisión para el portfolio |
+|---|---|---|---|
+| [Brittany Chiang](https://brittanychiang.com/) | Presentación del perfil y tecnologías junto a proyectos | Evitar replicar identidad visual ajena | Mostrar habilidades y proyectos de forma directa |
+| [Adham Dannaway](https://www.adhamdannaway.com/) | Referencia para estudiar una identidad profesional y presentación de trabajos | La valoración de sus detalles visuales requiere inspección personal | Diferenciar la marca personal de la organización del contenido |
+| Portfolio de referencia descrito en la consigna del TP | Navegación sticky, hero con CTA, métricas, skills, proyectos y timeline | Es una referencia de arquitectura, no de estilo; no se dispone aquí de URL verificada | Conservar las nueve secciones obligatorias y utilizar diseño propio |
 
-## 3. Portfolio de referencia del docente — URL: [COMPLETAR]
-- ⚠️ La consigna lo describe: barra sticky, hero con 2 CTAs, tarjetas de métricas, grilla de skills, timeline, tarjetas de principios. Pendiente de análisis visual.
-
-**Acción:** completá los puntos ⚠️ antes de entregar; un benchmark debe basarse en lo que realmente viste.
+**Pendiente:** inspeccionar visualmente los dos sitios externos y agregar capturas y observaciones personales de qué funciona y qué no. La tercera referencia se analizó desde la descripción escrita de la consigna, no mediante navegación.
